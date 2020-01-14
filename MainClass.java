@@ -1,0 +1,1 @@
+//practice git to check commit with commands
